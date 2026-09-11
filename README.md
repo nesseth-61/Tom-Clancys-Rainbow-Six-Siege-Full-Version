@@ -243,3 +243,6 @@ This repository serves as the official landing page for Tom Clancy's Rainbow Six
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Tom Clancy's Rainbow Six Siege today!**
+
+---
+**Last updated:** 2026-09-11 09:21:04 UTC
