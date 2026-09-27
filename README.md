@@ -245,4 +245,4 @@ This repository serves as the official landing page for Tom Clancy's Rainbow Six
 **Get the most recent version of Tom Clancy's Rainbow Six Siege today!**
 
 ---
-**Last updated:** 2026-09-27 06:11:44 UTC
+**Last updated:** 2026-09-27 12:44:11 UTC
